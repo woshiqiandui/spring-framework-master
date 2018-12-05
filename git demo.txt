@@ -1,0 +1,5 @@
+git init
+git add .                       
+git commit -m "提交所有文件"
+git remote add origin https://github.com/woshiqiandui/spring-framework-master.git
+git push -u origin master
